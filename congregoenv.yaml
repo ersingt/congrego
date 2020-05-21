@@ -16,6 +16,7 @@ dependencies:
   - curl=7.67.0=h2a8f88b_0
   - cycler=0.10.0=py37_0
   - decorator=4.4.2=py_0
+  - descartes=1.1.0=py_4
   - entrypoints=0.3=py37_0
   - expat=2.2.5=he025d50_0
   - fiona=1.8.4=py37h22081e2_0
